@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: SimpleAccountRecipes
+## Notes: Account-wide recipe tracker for 1.12.1. Open a profession to scan. Tooltips show Account Known.
+## Notes-deDE: Accountweites Rezept-Tracking fuer 1.12.1. Beruf oeffnen zum Scannen. Tooltip zeigt Account Known.
+## Author: Sepirox-Burandir with Grok-Ai
+## Version: 1.0.0
+## SavedVariables: SimpleAccountRecipesDB
+SimpleAccountRecipes.lua
