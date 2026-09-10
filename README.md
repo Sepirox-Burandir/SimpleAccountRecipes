@@ -6,6 +6,12 @@ SimpleAccountRecipes — Vanilla 1.12.1 (Interface 11200)
 For private servers where every character on the same account
 shares learned recipes once the required profession skill is reached.
 
+<img width="183" height="459" alt="Screenshot 2026-09-10 154852" src="https://github.com/user-attachments/assets/e754dc0c-08bb-4c05-93e1-345c63332e31" />
+<img width="141" height="175" alt="Screenshot 2026-09-10 154925" src="https://github.com/user-attachments/assets/3de8c44f-4dea-427e-b046-905cafb5379a" />
+
+
+
+
 # Install
 -------
 Copy the folder AccountRecipes into:
