@@ -21,6 +21,7 @@ Copy the folder AccountRecipes into:
 Resulting files:
 
   Interface/AddOns/SimpleAccountRecipes/SimpleAccountRecipes.toc
+  
   Interface/AddOns/SimpleAccountRecipes/SimpleAccountRecipes.lua
 
 Restart the client (or /console reloadui).
@@ -44,8 +45,8 @@ On recipe items (Pattern / Plans / Schematic / Formula / Recipe / Manual /
 Design / Muster / Plaene / Bauplan / Rezept / Formel / ...) the tooltip
 gains a green line:
 
-  Account Known
-  Scanned: CharName (Profession)
+ - Account Known
+ - Scanned: CharName (Profession)
 
 Works on bags, merchant, auction, loot, mail, trade, trainer, and
 clicked item links. Bag-addon frames that use GameTooltip are covered;
@@ -53,14 +54,14 @@ custom third-party tooltip frames are not.
 
 # Commands
 --------
-  /sar                help
-  /sar stats          how many recipes are stored
-  /sar list           list professions in the database
-  /sar list Tailoring list recipe names for one profession
-  /sar search bag     search recipe names
-  /sar chars          which characters have been scanned
-  /sar rescan         force-scan the profession window that is open now
-  /sar wipe confirm   delete the whole account database
+  - /sar                help
+  - /sar stats          how many recipes are stored
+  - /sar list           list professions in the database
+  - /sar list Tailoring list recipe names for one profession
+  - /sar search bag     search recipe names
+  - /sar chars          which characters have been scanned
+  - /sar rescan         force-scan the profession window that is open now
+  - /sar wipe confirm   delete the whole account database
 
 # Notes
 -----
